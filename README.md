@@ -22,7 +22,14 @@
 
 ---
 ### :arrow_down: Installazione:
-- basta eseguire tale comando "npm install"
+1. Clonare il repository
+   ```sh
+   git clone https://github.com/kylemorena/KyleMorena-JS-Basics.git
+   ```
+2. Installare NPM packages
+   ```sh
+   npm install
+   ```
 ---
 ### 🤝 Connect with me:
 
