@@ -48,38 +48,3 @@ stopButton.addEventListener("click",function() {
 resetButton.addEventListener("click",function() {
   counter("reset")
 });
-
-//#region Prova
-// let myInterval;
-
-// function startCounter(){
-//   myInterval = setInterval(myTimer,1000);
-//   function myTimer(){
-//       count++;
-//       counterDisplay.innerHTML = count;
-//   }
-// }
-// function stopCounter(){
-//   clearInterval(myInterval)
-//   count = 0;
-//   counterDisplay.innerHTML = count;
-// }
-
-// function counter(num){
-//   count = count + num;
-//   counterDisplay.innerHTML = count;
-// }
-
-// plusButton.addEventListener("click",function() {
-//   counter(+1);
-// });
-// minusButton.addEventListener("click",function() {
-//   counter(-1);
-// });
-// startButton.addEventListener("click",function() {
-//   startCounter();
-// });
-// resetButton.addEventListener("click",function() {
-//   stopCounter();
-// });
-//#endregion
