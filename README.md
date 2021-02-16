@@ -30,6 +30,10 @@
    ```sh
    npm install
    ```
+3. Avviare il browser
+   ```sh
+   se sei su vscode "Alt+B"
+   ```
 ---
 ### 🤝 Connect with me:
 
