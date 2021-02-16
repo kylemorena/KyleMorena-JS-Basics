@@ -1,5 +1,4 @@
-### Ciao, Sono Kyle 👋
-
+### Ciao, Sono Kyle Morena e vivo a Bologna👋
 
 ## Sto cercando di diventare un front-end devevolper
 - 📚 Al momento sto studiando su start2impact
