@@ -22,7 +22,7 @@
 
 ---
 ### :arrow_down: Installazione:
--basta eseguire tale comando "npm install"
+- basta eseguire tale comando "npm install"
 ---
 ### 🤝 Connect with me:
 
