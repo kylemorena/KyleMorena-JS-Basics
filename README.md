@@ -1,6 +1,6 @@
-### Ciao, Sono Kyle Morena e vivo a Bologna👋
+### Ciao, Sono Kyle 👋 benvenuto nel mio progetto 😃
 
-## Sto cercando di diventare un front-end devevolper
+### :technologist: About Me
 - 📚 Al momento sto studiando su start2impact
 - 🌱 Mi sto focalizzando su JavaScript.
 - 🥅 Obiettivo 2021: lavorare come front-end developer.
@@ -12,7 +12,7 @@
 - è un progetto per start2impact come studente
 - l'obiettivo è quello di imparare le basi di JavaScript
 ---
-### 💼 Languages and Tools usati per il progetto:
+### 🛠️ Linguaggi e Tools usati per il progetto:
 <code><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
@@ -25,9 +25,9 @@
    ```sh
    git clone https://github.com/kylemorena/KyleMorena-JS-Basics.git
    ```
-2. Installare NPM packages
+2. Installare NPM packages con bootstrap-sass
    ```sh
-   npm install
+   npm install 
    ```
 3. Avviare il browser
    ```sh
