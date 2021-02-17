@@ -8,6 +8,7 @@
 
 ---
 ### :bulb: Progetto counter
+- è un'applicazione web
 - permette all'utente di aumentare o diminuire il counter e far partire o stoppare il timer
 - è un progetto per start2impact come studente
 - l'obiettivo è quello di imparare le basi di JavaScript
