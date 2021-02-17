@@ -8,6 +8,7 @@ const resetButton = document.querySelector(".reset-button")
 
 let count = 0;
 let myInterval;
+let active = false;
 
 function counter(myVar){
   switch (myVar){
@@ -16,15 +17,18 @@ function counter(myVar){
       function myTimer(){
           count++;
           counterDisplay.innerHTML = count;
+          active = true;
       }
       break;
     case 'stop':
       clearInterval(myInterval)
       counterDisplay.innerHTML = count;
+      active = false;
       break;
     case 'reset':
       clearInterval(myInterval)
       count = 0;
+      active = false;
       break;
     default: 
       count = count + myVar;
@@ -40,7 +44,13 @@ minusButton.addEventListener("click",function() {
   counter(-1);
 });
 startButton.addEventListener("click",function() {
-  counter("start")
+  if(active==false)
+  {
+    counter("start")
+  }
+  else{
+    alert('è già in play, clicca su pause o reset')
+  }
 });
 stopButton.addEventListener("click",function() {
   counter("stop")
